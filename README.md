@@ -11,6 +11,7 @@ Ukoliko vidite da fali nešto, molimo vas da ili otvorite Issue na ovom repozito
 ## Godišnji troškovi 
 1. Porez na dobit
 2. Porez na ime tvrtke
+3. Predujam poreza za sljedeću poreznu godinu
 
 ## Jednokratni troškovi 
 1. Trošak osnivanja tvrtke 
