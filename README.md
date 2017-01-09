@@ -22,3 +22,7 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 ## Jednokratni troškovi 
 1. Trošak osnivanja tvrtke 
 2. Zaštita na radu
+
+## Mogući troškovi ovisno o djelatnosti i/ili lokaciji
+1. Spomenička renta
+2. HRT pristojba
