@@ -21,6 +21,10 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 1. Porez na dobit
 2. Predujam poreza na dobit za sljedeću poreznu godinu (nakon prve godine poslovanja)
 
+## Troškovi svake 2 godine
+1. Atest električnih instalacija, buke i plina
+2. Provjera vida djelatnika ukoliko svakodnevni rad obuhvaća vise od 4 sata rada za računalom
+
 ## Jednokratni troškovi 
 1. Trošak osnivanja tvrtke 
 2. Zaštita na radu
@@ -29,3 +33,5 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 ## Mogući troškovi ovisno o djelatnosti i/ili lokaciji
 1. Spomenička renta
 2. HRT pristojba
+3. Procjena rizika
+4. Procjena opasnosti
