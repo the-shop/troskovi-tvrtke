@@ -22,6 +22,11 @@ osporeni) knjižiti sljedeće izdatke kao opravdane troškove:
 2. Najam prostora
    - rata najma
    - režije za prostor
+   
+3. Licence za software
+
+4. Edukacija
+   - Edukacija je 180% priznati trošak
 
 ## Ostali troškovi
 
@@ -32,3 +37,6 @@ osporeni) knjižiti sljedeće izdatke kao opravdane troškove:
 
 Donacije su 100% porezno priznati troškovi sve dok zbrojeni iznose
 ispod 2% godišnjih *prihoda* tvrtke.
+
+## Stipendija
+Stipendiranje učenika srednje škole / fakulteta
