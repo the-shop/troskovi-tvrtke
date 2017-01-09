@@ -23,10 +23,6 @@ osporeni) knjižiti sljedeće izdatke kao opravdane troškove:
    - rata najma
    - režije za prostor
 
-## Osobni automobil
-
-Todo
-
 ## Ostali troškovi
 
 1. Trošak reprezentacije
@@ -36,5 +32,3 @@ Todo
 
 Donacije su 100% porezno priznati troškovi sve dok zbrojeni iznose
 ispod 2% godišnjih *prihoda* tvrtke.
-
-Todo: što se podrazumijeva pod donaciju?
