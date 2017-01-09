@@ -13,6 +13,7 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 7. Najam poslovnog prostora
 8. Režije (ukoliko nisu uključene u cijenu najma)
 9. Hrvatska turistička zajednica
+10. Zaštita na radu
 
 ## Godišnji troškovi 
 1. Porez na dobit
