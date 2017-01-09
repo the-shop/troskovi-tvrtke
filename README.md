@@ -6,14 +6,16 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 ## Mjesečni troškovi 
 1. Plaća sa doprinosima
 2. Hrvatska gospodarska komora 
-3. Hrvatske šume
-4. Vođenje žiro računa
-5. Knjigovodstvo / računovodstvo
-6. Predujam poreza na dobit u iznosu 1/12 poreza na dobit prethodne godine
-7. Najam poslovnog prostora
-8. Režije (ukoliko nisu uključene u cijenu najma)
-9. Hrvatska turistička zajednica
-10. Zaštita na radu
+3. Vođenje žiro računa
+4. Knjigovodstvo / računovodstvo
+5. Predujam poreza na dobit u iznosu 1/12 poreza na dobit prethodne godine
+6. Najam poslovnog prostora
+7. Režije (ukoliko nisu uključene u cijenu najma)
+8. Hrvatska turistička zajednica
+9. Zaštita na radu
+
+## Kvartalni troskovi
+1. Hrvatske šume
 
 ## Godišnji troškovi 
 1. Porez na dobit
