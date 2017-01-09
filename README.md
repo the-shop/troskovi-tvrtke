@@ -8,8 +8,9 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 2. Hrvatska gospodarska komora 
 3. Hrvatske šume
 4. Vođenje žiro računa
-5. Knjigovodstvo
+5. Knjigovodstvo / računovodstvo
 6. Predujam poreza na dobit u iznosu 1/12 poreza na dobit prethodne godine
+7. Najam poslovnog prostora
 
 ## Godišnji troškovi 
 1. Porez na dobit
