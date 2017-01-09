@@ -14,7 +14,7 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 8. Hrvatska turistička zajednica
 9. Zaštita na radu
 
-## Kvartalni troskovi
+## Kvartalni troškovi
 1. Hrvatske šume
 
 ## Godišnji troškovi 
