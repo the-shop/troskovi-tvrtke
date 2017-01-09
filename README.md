@@ -9,11 +9,12 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 3. Hrvatske šume
 4. Vođenje žiro računa
 5. Knjigovodstvo
+6. Predujam poreza na dobit u iznosu 1/12 poreza na dobit prethodne godine
 
 ## Godišnji troškovi 
 1. Porez na dobit
 2. Porez na ime tvrtke
-3. Predujam poreza za sljedeću poreznu godinu
+3. Predujam poreza na dobit za sljedeću poreznu godinu (nakon prve godine poslovanja)
 
 ## Jednokratni troškovi 
 1. Trošak osnivanja tvrtke 
