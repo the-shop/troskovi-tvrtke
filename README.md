@@ -35,3 +35,6 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 2. HRT pristojba
 3. Procjena rizika
 4. Procjena opasnosti
+
+## Dodatno
+[Porezno priznati troškovi](dodatno/priznati_troskovi.md)
