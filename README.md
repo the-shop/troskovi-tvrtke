@@ -58,3 +58,6 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 6. Troškovi izrade pečata
 7. Naknada za objavu pravne osobe u Narodne novine
 8. Naknada za upis u Državni zavod za statistiku
+
+## Dodatno
+[Porezno priznati troškovi](dodatno/priznati_troskovi.md)
