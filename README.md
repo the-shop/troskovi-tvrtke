@@ -17,7 +17,7 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 
 ## Godišnji troškovi 
 1. Porez na dobit
-2. Porez na ime tvrtke
+2. Porez na ime tvrtke *(trebalo bi biti ukinuto od 2017. godine)*
 3. Predujam poreza na dobit za sljedeću poreznu godinu (nakon prve godine poslovanja)
 
 ## Jednokratni troškovi 
