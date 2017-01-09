@@ -27,8 +27,7 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 
 ## Godišnji troškovi 
 1. Porez na dobit
-2. Predujam poreza na dobit za sljedeću poreznu godinu (nakon prve godine poslovanja)
-3. Kazne
+2. Kazne
 
 ## Troškovi svake 2 godine
 1. Atest električnih instalacija, buke i plina
