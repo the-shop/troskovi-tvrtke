@@ -22,6 +22,7 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 ## Jednokratni troškovi 
 1. Trošak osnivanja tvrtke 
 2. Zaštita na radu
+3. Medicina rada
 
 ## Mogući troškovi ovisno o djelatnosti i/ili lokaciji
 1. Spomenička renta
