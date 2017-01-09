@@ -11,6 +11,7 @@ Ukoliko vidite da nešto nedostaje, molimo vas da otvorite "Issue" na ovom repoz
 5. Knjigovodstvo / računovodstvo
 6. Predujam poreza na dobit u iznosu 1/12 poreza na dobit prethodne godine
 7. Najam poslovnog prostora
+8. Režije (ukoliko nisu uključene u cijenu najma)
 
 ## Godišnji troškovi 
 1. Porez na dobit
